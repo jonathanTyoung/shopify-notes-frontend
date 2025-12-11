@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@shopify/app-bridge": "^3.7.11",
+    "@shopify/app-bridge-react": "^4.2.8",
+    "@shopify/app-bridge-utils": "^3.5.1",
     "next": "16.0.8",
     "react": "19.2.1",
     "react-dom": "19.2.1"
